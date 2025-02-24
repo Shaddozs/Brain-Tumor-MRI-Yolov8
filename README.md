@@ -105,4 +105,3 @@ Potential improvements for this project include:
 - **Ultralytics:** For developing the YOLOv8 framework.
 - **Research Community:** Contributions from the research community on deep learning and medical image analysis.
 - **Funding/Support:** [Include any funding sources or institutional support if applicable.]
-```
